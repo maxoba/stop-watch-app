@@ -7,7 +7,9 @@ Made with vanilla javascript and HTML/CSS
 #### How it works?
 - START button begins the timer
 - STOP button stops the timer and the stop time gets displayed
-- RESET button sets all time settings to 0 and all intervals gets removed.
+- RESET button sets all time settings to 0 and all intervals get removed.
+#### Youtube Video Link
+![Youtube Link](https://youtu.be/3j6SHAluWpo)
 #### Features Ideas
 Alarm and split time features are to be added.
 #### Credits
