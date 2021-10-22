@@ -9,7 +9,7 @@ Made with vanilla javascript and HTML/CSS
 - STOP button stops the timer and the stop time gets displayed
 - RESET button sets all time settings to 0 and all intervals get removed.
 #### Youtube Video Link
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3j6SHAluWpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://youtu.be/3j6SHAluWpo"><img src="https://i.ytimg.com/vi/3j6SHAluWpo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC8PUwNR57EvHyNWc6f8MERQSjOYg"></img></a> 
 <br>
 #### Features Ideas
 Alarm and split time features are to be added.
