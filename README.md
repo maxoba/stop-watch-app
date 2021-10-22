@@ -10,6 +10,7 @@ Made with vanilla javascript and HTML/CSS
 - RESET button sets all time settings to 0 and all intervals get removed.
 #### Youtube Video Link
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3j6SHAluWpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 #### Features Ideas
 Alarm and split time features are to be added.
 #### Credits
