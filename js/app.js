@@ -6,10 +6,6 @@ window.onload = function () {
     var second = 00;
     var Interval;
 
-
-    // store all the stops
-    var stopTimeList = []
-
     // accessing hour, minute, seconds and centiseconds from document
     var hourElement = document.getElementById("hour");
     var minuteElement = document.getElementById("minute");
@@ -35,6 +31,7 @@ window.onload = function () {
         // start new interval
         running = true;
         timeElement.style.border = "3px solid #40916c";
+        // call every 10 milliseconds
     	Interval = setInterval(timer, 10);
     }
 
