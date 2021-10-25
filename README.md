@@ -14,4 +14,4 @@ Made with vanilla javascript and HTML/CSS
 #### Features Ideas
 Alarm and split time features are to be added.
 #### Credits
-A Project done under guidance of ![Coding Ninjas](https://www.codingninjas.com)
+A Project done under guidance of [Coding Ninja](https://www.codingninjas.com)
